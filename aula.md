@@ -1,9 +1,9 @@
-## Linguagem de Programação
+## Linguagem de programação
 
 Maneira de dar instrução ao computador.
-Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para resolver problemas.
+Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
->  💡  **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
+> 💡 **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma linguagem
 
@@ -20,3 +20,19 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
+
+## Escopo e variáveis:
+
+- [x] Variáveis globais e locais
+- [x] Constantes
+
+## Tipos de dados:
+
+- [x] Strings (texto): "" '' ``
+- [x] Numbers: 2 1.4
+- [x] Boolean: true, false
+
+# Operadores
+
+- [x] Operadores de atribuição de valor: =
+- [x] Operador de contatenação: +
