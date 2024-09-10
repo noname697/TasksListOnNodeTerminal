@@ -1,15 +1,22 @@
-// olá, mundo!
-console.log("olá, mundo!")
+// Arays, objetos
+let meta = {
+    value: "Ler um livro todo mês",
+    checked: true,
 
-
-// variáveis - let
-let mensagens = "olá, mundo!"
-
-
-// variáveis - const
-const mensagem = "olá, eu"
-{
-    const mensagem = "olá, Mayk!"
-    console.log(mensagem)
 }
-console.log(mensagem);
+
+let metas = [
+    meta, 
+    {
+        value: "Caminhar 20 minutos por dia",
+        checked: false
+    }
+]
+
+
+// function // Arrow function
+// const criarMeta = () => {}
+
+// function criarMeta(){}
+
+console.log(metas[1].value)
